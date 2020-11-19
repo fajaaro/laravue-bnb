@@ -1,0 +1,16 @@
+.product-description {
+	height: 100px;
+	display: flex;
+	align-items: center;
+}
+.product-image {
+	height: 280px;
+}
+
+.pagination {
+	justify-content: center;
+}
+
+.store-name {
+	font-size: 24px;
+}
